@@ -6,7 +6,7 @@ This repository is intended to help you find Minecraft Bedrock default textures 
 
 If you want to use Minecraft Bedrock textures for plugins (PocketMine-MP),
 
-1. the directory seperator should be a forward slash (/),
+1. the directory separator should be a forward slash (/),
 2. don't include `https://github.com/Kygekraqmak/default-textures/blob/master` and
 3. don't include the `.png` file type.
 
