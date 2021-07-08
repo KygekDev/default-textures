@@ -1,6 +1,6 @@
 # Minecraft Bedrock Default Textures
 
-**NOTICE: This repo contains Minecraft Bedrock default textures files on version 1.16. This repo is planned to be updated to version 1.17 very soon.**
+**NOTICE: This repo contains Minecraft Bedrock default textures files as of version 1.17.0.**
 
 This repository is intended to help you find Minecraft Bedrock default textures pack's files.
 
