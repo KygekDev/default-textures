@@ -20,5 +20,6 @@ If you want to use `https://github.com/Kygekraqmak/default-textures/blob/master/
 
 # Additional Notes
 
-- If you have any questions or suggestions, join our [Discord server](https://discord.gg/CXtqUZv).
+- The resource pack is always downloaded from the [official download link](https://aka.ms/resourcepacktemplate) from Microsoft.
+- If you have any questions or suggestions, please join the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7).
 - We are not affiliated with Mojang and Minecraft in any way. Their Products, Brands and Assets are trademarks and copyrights of their respective publisher and its licensors.
