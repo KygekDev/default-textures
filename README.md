@@ -9,14 +9,14 @@ This repository is intended to help you find Minecraft Bedrock default textures 
 If you want to use Minecraft Bedrock textures for plugins (PocketMine-MP),
 
 1. the directory separator should be a forward slash (/),
-2. don't include `https://github.com/Kygekraqmak/default-textures/blob/master` and
+2. don't include `https://github.com/KygekDev/default-textures/blob/master` and
 3. don't include the `.png` file type.
 
 **NOTE:** Textures should work even if the Minecraft server does not register or support some vanilla Minecraft items or blocks, because textures are rendered client-side, as long the textures remain unmodified by custom textures.
 
 ### Example:
 
-If you want to use `https://github.com/Kygekraqmak/default-textures/blob/master/textures/items/arrow.png`, you should use `textures/items/arrow` in your plugin config/script.
+If you want to use `https://github.com/KygekDev/default-textures/blob/master/textures/items/arrow.png`, you should use `textures/items/arrow` in your plugin config/script.
 
 # Additional Notes
 
