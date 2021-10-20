@@ -1,12 +1,20 @@
-# Minecraft Bedrock Default Textures
+# Minecraft Bedrock Default Vanilla Textures Library
 
-**NOTICE: This repo contains Minecraft Bedrock default textures files as of version 1.17.10.**
+**NOTICE: This repo contains Minecraft Bedrock default vanilla textures library as of version 1.17.40.**
 
-This repository is intended to help you find Minecraft Bedrock default textures pack's files.
+This repository is intended to help you navigate the Minecraft Bedrock default vanilla textures library.
 
-# Usage
+## Usage
 
-If you want to use Minecraft Bedrock textures for plugins (PocketMine-MP),
+**NOTICE:** GitHub limits file shown inside a directory to 1000 files, while some directories in this repository contains more than 1000 files. To work around this restriction, you need to clone this repository with the following command (without the `$` symbol):
+```sh
+$ git clone --depth 1 --branch master https://github.com/KygekDev/default-textures
+```
+If you don't have Git installed, you may try downloading and installing Git [here](https://git-scm.com/downloads).
+
+---
+
+If you want to use the vanilla Minecraft Bedrock textures for plugins (PocketMine-MP),
 
 1. the directory separator should be a forward slash (/),
 2. don't include `https://github.com/KygekDev/default-textures/blob/master` and
@@ -18,7 +26,7 @@ If you want to use Minecraft Bedrock textures for plugins (PocketMine-MP),
 
 If you want to use `https://github.com/KygekDev/default-textures/blob/master/textures/items/arrow.png`, you should use `textures/items/arrow` in your plugin config/script.
 
-# Additional Notes
+## Additional Notes
 
 - The resource pack is always downloaded from the [official download link](https://aka.ms/resourcepacktemplate) from Microsoft.
 - If you have any questions or suggestions, please join the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7).
