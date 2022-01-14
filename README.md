@@ -26,6 +26,12 @@ If you want to use the vanilla Minecraft Bedrock textures for plugins (PocketMin
 
 If you want to use `https://github.com/KygekDev/default-textures/blob/master/textures/items/arrow.png`, you should use `textures/items/arrow` in your plugin config/script.
 
+## Older Textures
+
+If you want to browse an older version of the Minecraft Bedrock default vanilla textures, select the Minecraft version you want to browse in [GitHub Tags](https://github.com/KygekDev/default-textures/tags).
+
+**NOTE:** Textures only available starting from Minecraft Bedrock version 1.16.x.
+
 ## Additional Notes
 
 - The resource pack is always downloaded from the [official download link](https://aka.ms/resourcepacktemplate) from Microsoft.
