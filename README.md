@@ -1,6 +1,6 @@
 # Minecraft Bedrock Default Vanilla Textures Library
 
-**NOTICE: This repo contains Minecraft Bedrock default vanilla textures library as of version 1.18.10.**
+**NOTICE: This repo contains Minecraft Bedrock default vanilla textures library as of version 1.18.30.**
 
 This repository is intended to help you navigate the Minecraft Bedrock default vanilla textures library.
 
