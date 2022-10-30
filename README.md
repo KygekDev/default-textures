@@ -1,5 +1,9 @@
 # Minecraft Bedrock Default Vanilla Textures Library
 
+**UPDATE: This repository is no longer updated because Mojang now has its own [GitHub repo](https://github.com/Mojang/bedrock-samples). You can visit the `textures` directory of the repository directly [here](https://github.com/Mojang/bedrock-samples/tree/main/resource_pack/textures).**
+
+---
+
 **NOTICE: This repo contains Minecraft Bedrock default vanilla textures library as of version 1.19.20.**
 
 This repository is intended to help you navigate the Minecraft Bedrock default vanilla textures library.
